@@ -1,3 +1,3 @@
-document.querySelector('.success-button-container').addEventListener('click', function() {
+document.querySelector('.success-button').addEventListener('click', function() {
   alert('Button clicked!');
 });
